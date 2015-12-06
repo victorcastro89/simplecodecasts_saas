@@ -52,3 +52,6 @@ group :development do
 end
 gem 'bootstrap-sass', '3.3.6'
 gem 'font-awesome-sass', '4.4.0'
+gem 'sendgrid', '~> 1.2'
+gem 'rest-client', '~> 1.8'
+gem 'devise'

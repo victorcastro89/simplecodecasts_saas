@@ -55,3 +55,7 @@ gem 'font-awesome-sass', '4.4.0'
 gem 'sendgrid', '~> 1.2'
 gem 'rest-client', '~> 1.8'
 gem 'devise'
+# Use stripe for handling payments
+gem 'stripe', '1.16.1'
+# Use figaro to hide secret keys
+gem 'figaro', '1.0.0'
